@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Beginer Programmer
+## Beginner Programmer
 - no carrer :pray:
 - Master's degree :computer:
 
