@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 ## Beginer Programmer
-- no carrer
-- Master's degree
+- no carrer :pray:
+- Master's degree :computer:
 
 ## Interest
 
-- Deep Learning
-- Image Processing
-- Backend
-- Golang
+- Deep Learning (Vision, Health care) :green_heart:
+- Image Processing :heart:
+- Backend :heart:
+- Golang :heart:
 
 <!--
 **knight2995/knight2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
