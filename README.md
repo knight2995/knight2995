@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## Beginer Programmer
+- no carrer
+- Master's degree
+
+## Interest
+
+- Deep Learning
+- Image Processing
+- Backend
+- Golang
+
 <!--
 **knight2995/knight2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
