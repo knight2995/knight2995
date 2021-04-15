@@ -9,10 +9,10 @@
 
 ## Interest
 
-- Deep Learning (Vision, Health care) :green_heart:
-- Image Processing :heart:
-- Backend :heart:
-- Golang :heart:
+- Backend :heart: Spring-boot, Django, echo(go)
+- Linux(Cent OS, Ubuntu)
+- Docker
+- AWS
 
 <!--
 **knight2995/knight2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
