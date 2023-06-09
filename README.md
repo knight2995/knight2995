@@ -9,10 +9,11 @@
 
 ## Interest
 
-- Backend :heart: Spring-boot, Django, echo(go)
+- Backend :heart: FastAPI
 - Linux(Cent OS, Ubuntu)
 - Docker
 - AWS
+- GCP
 
 <!--
 **knight2995/knight2995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
